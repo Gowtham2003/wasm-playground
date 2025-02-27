@@ -237,7 +237,6 @@ You can use a simple local server like:
                 highlightSelectionMatches: true,
                 autocompletion: true,
                 closeBrackets: true,
-                matchBrackets: true,
                 tabSize: 2,
               }}
             />
